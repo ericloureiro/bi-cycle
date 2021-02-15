@@ -1,0 +1,50 @@
+{
+  "totalTrips":76313,
+  "totalTripsCurrentYear":1912,
+  "activeMembers":969,
+  "distanceTravelled":184025.4714630168,
+  "distanceTravelledCurrentYear":5216.235564728015,
+  "topPickupStations":[
+    {
+      "stationName":"Upper West Side",
+      "count":2341
+    },
+    {
+      "stationName":"Fayetteville Street",
+      "count":8196
+    },
+    {
+      "stationName":"Tucker & Glenwood",
+      "count":4556
+    },
+    {
+      "stationName":"Citrix Station",
+      "count":4384
+    }
+  ],
+  "topDropoutStations":[
+    {
+      "stationName":"Fayetteville Street",
+      "count":9070
+    },
+    {
+      "stationName":"North Carolina Museum of Art",
+      "count":5562
+    },
+    {
+      "stationName":"Tucker & Glenwood",
+      "count":5391
+    },
+    {
+      "stationName":"Leiria Museum",
+      "count":7022
+    }
+  ],
+  "registeredUsers":832,
+  "boughtMemberships":1685,
+  "boughtMembershipsCurrentYear":41,
+  "casualMembers":15903,
+  "casualCurrentYear":469,
+  "casualLastYear":8954,
+  "timestamp":1613401153229
+}
